@@ -2,22 +2,22 @@
 ## Aplikasi Flutter Dengan API: Booking KAI
 
 
-| #               | Biodata           |
-| --------------- | ----------------- |
-| **Nama**        | Modesta Liunesi   |
-| **NIM**         | 312110142         |
-| **Kelas**       | TI.21.A1          |
-| **Mata Kuliah** | Pemrograman Web 2 |
+| #               | Biodata            |
+| --------------- | -----------------  |
+| **Nama**        | Modesta Liunesi    |
+| **NIM**         | 312110142          |
+| **Kelas**       | TI.21.A1           |
+| **Mata Kuliah** | Pemrograman Mobile |
 
 <br>
 
 
 
 ## Hasil
-![gambar 01](asset/hasil_1.png)
+(asset/hasil_1.png)
 <br>
 
-![gambar 02](asset/hasil_2.png)
+(asset/hasil_2.png)
 
 ## Isi dari program
 
